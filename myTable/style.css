@@ -24,4 +24,6 @@ p{
 
 a{
   font-size:10px; }
-h2{text-transfrom:uppercase;}
+h2{
+  text-transform:uppercase;
+}
