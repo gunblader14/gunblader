@@ -10,7 +10,7 @@ font-family: Helvetica Neue, "Montserrat", sans-serif;
 }
 
 textarea:focus, input:focus {
-  border-color: transparent !important;
+  border-color: transparent important;
 }
 
 input::-webkit-input-placeholder { color: #bdbdd3;}
